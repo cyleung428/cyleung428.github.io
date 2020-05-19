@@ -9,7 +9,8 @@
 
 ---
 [E-commerce Flutter mobile App](https://github.com/cyleung428/flutterecom)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/app1.jpg?raw=true"/>
+<img src="images/app2.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
