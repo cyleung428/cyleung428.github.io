@@ -6,11 +6,9 @@
 
 [Infotronic Report System](http://42.200.149.215:9854/custom-report)
 <img src="images/Updated (003)-page-001.jpg?raw=true"/>
-<img src="images/Updated (003)-page-002.jpg?raw=true"/>
-<img src="images/Updated (003)-page-003.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[E-commerce Flutter mobile App](https://github.com/cyleung428/flutterecom)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
