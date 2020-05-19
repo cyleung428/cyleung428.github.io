@@ -17,9 +17,9 @@
 
 ---
 
-### Category Name 2
+### Fun Projects
 
-- [Project 1 Title](http://example.com/)
+- [Classification on Spam mail using different predict models](https://github.com/cyleung428/Classification-on-spam-mail/blob/master/Project2.ipynb)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
