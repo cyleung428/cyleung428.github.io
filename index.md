@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Software 
 
-[Project 1 Title](/sample_page)
+[Infotronic Report System](/42.200.149.215:9854/custom-report)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
