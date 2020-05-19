@@ -4,6 +4,13 @@
 
 ### Software 
 
+---
+[Infotronic Company Website](https://infosmart.io)
+<br />
+<img src="images/web.jpg?raw=true" style="width: 480;height: 480"/>
+
+---
+
 [Infotronic Report System](http://42.200.149.215:9854/custom-report)
 <img src="images/Updated (003)-page-001.jpg?raw=true"/>
 
