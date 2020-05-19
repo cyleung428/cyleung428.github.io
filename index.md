@@ -14,8 +14,7 @@
 <img src="images/app2.jpg?raw=true" style="width: 480;height: 480"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Personal home page](https://myfreelance-291c7.web.app/)
 
 ---
 
