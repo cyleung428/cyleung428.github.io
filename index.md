@@ -9,8 +9,8 @@
 
 ---
 [E-commerce Flutter mobile App](https://github.com/cyleung428/flutterecom)
-<img src="images/app1.jpg?raw=true"/>
-<img src="images/app2.jpg?raw=true"/>
+<img src="images/app1.jpg?raw=true" style="width: 480;height: 480"/>
+<img src="images/app2.jpg?raw=true" style="width: 480;height: 480"/>
 
 ---
 [Project 3 Title](http://example.com/)
