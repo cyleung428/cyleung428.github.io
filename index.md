@@ -5,7 +5,9 @@
 ### Software 
 
 [Infotronic Report System](/42.200.149.215:9854/custom-report)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Updated (003)-page-001.jpg?raw=true"/>
+<img src="images/Updated (003)-page-002.jpg?raw=true"/>
+<img src="images/Updated (003)-page-003.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
