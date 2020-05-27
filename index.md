@@ -4,12 +4,9 @@
 
 ### Software 
 
----
 [Pathfinding Visualization](https://cyleung428.github.io/pathfinding/)
 <br />
 <img src="images/pathfinding.jpg?raw=true" style="width: 480;height: 480"/>
-
----
 
 ---
 [Infotronic Company Website](https://infosmart.io)
