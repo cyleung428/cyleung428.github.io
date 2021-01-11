@@ -8,26 +8,6 @@
 <br />
 <img src="images/pathfinding.jpg" style="width: 480;height: 480"/>
 
----
-[Infotronic Company Website](https://infosmart.io)
-<br />
-<img src="images/web.jpg?raw=true" style="width: 480;height: 480"/>
-
----
-
-[Infotronic Report System](http://42.200.149.215:9854/custom-report)
-<img src="images/Updated (003)-page-001.jpg?raw=true"/>
-
----
-[E-commerce Flutter mobile App](https://github.com/cyleung428/flutterecom)
-<br />
-<img src="images/app1.jpg?raw=true" style="width: 480;height: 480"/>
-<img src="images/app2.jpg?raw=true" style="width: 480;height: 480"/>
-
----
-[Personal home page](https://myfreelance-291c7.web.app/)
-
----
 
 ### Fun Projects
 
